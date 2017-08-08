@@ -1,0 +1,14 @@
+<!-- Allows the user to submit a date in the form of a UNIX time stamp -->
+
+<html>
+	<body>
+		<h1>Find update</h1>
+
+		<form action = "http://127.0.0.1:8081/process_find_update_post" method = "POST">
+			User ID: <input type = "text" name = "userId"> <br>
+			UNIX time stamp: <input type = "text" name = "timestamp"> <br>
+
+			<input type = "submit" value = "Submit">
+		</form>
+	</body>
+</html>

@@ -1,0 +1,1 @@
+A personal project I wanted to create so that my family/relatives could get daily updates about my life by talking to their Amazon Alexas/Dots. This is useful for sharing random funny stories or updates that don't warrant a phone call, and it's a good way to keep everyone connected.
